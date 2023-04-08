@@ -1,0 +1,15 @@
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\bin\Debug\net6.0\Ex001.exe
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\bin\Debug\net6.0\Ex001.deps.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\bin\Debug\net6.0\Ex001.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\bin\Debug\net6.0\Ex001.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\Ex001.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\Ex001.pdb
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+T:\Alyona_Koval\Path_in_IT\Geek_brains\5_Specialization\Specialization\Ex001\obj\Debug\net6.0\ref\Ex001.dll
